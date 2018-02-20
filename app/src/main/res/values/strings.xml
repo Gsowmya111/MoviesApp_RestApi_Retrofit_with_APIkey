@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoviesApp_RestApi_Retrofit</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_movies">MovieTitle</string>
+    <string name="name_details">Movie Details</string>
+    <string name="plot"> Plot Synopsis</string>
+    <string name="rating"> User Rating</string>
+    <string name="release"> Release_Date</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_highest_rated">Highest Rated</string>
+
+</resources>
